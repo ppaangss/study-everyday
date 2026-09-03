@@ -1,9 +1,3 @@
-# 작업 영역 — 초안·커리큘럼·메모는 공개하지 않는다
-auto/
-
-# Obsidian
 .obsidian/
 .trash/
-
-# macOS
 .DS_Store
